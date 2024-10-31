@@ -1,0 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.2)
+
+add_executable(Apartado1_Utilidad_de_variables Utilidad_de_variables.cpp)

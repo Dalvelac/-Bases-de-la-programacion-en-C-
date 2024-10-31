@@ -1,5 +1,6 @@
-CMAKE_MINIMUM_REQUIRED(VERSION 3.2)
+cmake_minimum_required(VERSION 3.2)
+project(Bases-de-la-programacion-en-cpp)
 
-add_executable( Bases-de-la-programacion-en-cpp
-        Utilidad_de_variables.cpp
-        Ambito_de_las_variables.cpp)
+add_subdirectory("Ejercicio 1/Apartado 1")
+add_subdirectory("Ejercicio 1/Apartado 2")
+add_subdirectory("Ejercicio 1/Apartado 3")

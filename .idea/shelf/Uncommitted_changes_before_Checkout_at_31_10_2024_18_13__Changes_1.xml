@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_31_10_2024_18_13_[Changes]1" date="1730394810720" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_10_2024_18_13_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 31/10/2024 18:13 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Ejercicio 2/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" />
+    <option name="AFTER_PATH" value="Ejercicio 2/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_10_2024_18_13_[Changes]1/a.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Ejercicio 2/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="Ejercicio 2/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_10_2024_18_13_[Changes]1/CMakeDetermineCompilerABI_CXX.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Ejercicio 2/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="Ejercicio 2/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_10_2024_18_13_[Changes]1/CMakeDetermineCompilerABI_C.bin" />
+  </binary>
+</changelist>

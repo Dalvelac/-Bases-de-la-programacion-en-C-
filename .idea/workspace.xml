@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Project" targetName="Apartado2_1_Instrucciones_de_Prueba" />
+      <config projectName="Project" targetName="Apartado2_2_Operadores" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87301aca-c44f-4cc6-954a-46fb7b3e06ce" name="Changes" comment="Ejercicio 2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Ejercicio-2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dalvelac"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dalvelac/Bases-de-la-programacion-en-Cpp",
+    "accountId": "8a5e6b2f-d8e3-4955-a4d6-e5380b5a0428"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2oDCOjlQHX9IDB9D8eZjeWFXiri" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CMake Application.Apartado1_Utilidad_de_variables.executor": "Run",
+    "CMake Application.Apartado2_1_Instrucciones_de_Prueba.executor": "Run",
+    "CMake Application.Apartado4_Tipo_de_Datos.executor": "Run",
+    "CMake Application.Bases-de-la-programacion-en-cpp.executor": "Run",
+    "CMake Application.Utilidad_de_variables.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 1/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87301aca-c44f-4cc6-954a-46fb7b3e06ce" name="Changes" comment="" />
+      <created>1730376772365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730376772365</updated>
+      <workItem from="1730376773471" duration="5005000" />
+      <workItem from="1730390647602" duration="1718000" />
+      <workItem from="1730392560096" duration="1980000" />
+      <workItem from="1730394729720" duration="74000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primeros programas">
+      <option name="closed" value="true" />
+      <created>1730377845918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730377845919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Organizando los programas">
+      <option name="closed" value="true" />
+      <created>1730379859831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730379859831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Meter CMake central para todos los apartados.">
+      <option name="closed" value="true" />
+      <created>1730379998931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730379998931</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio 1 completo">
+      <option name="closed" value="true" />
+      <created>1730389990482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730389990482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1730391096036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391096036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1730391236044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391236044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1730391294079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391294079</updated>
+    </task>
+    <task id="LOCAL-00008" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1730391509993</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391509993</updated>
+    </task>
+    <task id="LOCAL-00009" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1730391764674</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391764674</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ejercicio 2">
+      <option name="closed" value="true" />
+      <created>1730394119308</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730394119308</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ejercicio 2">
+      <option name="closed" value="true" />
+      <created>1730394672791</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730394672791</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ejercicio 2">
+      <option name="closed" value="true" />
+      <created>1730394767420</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730394767420</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeros programas" />
+    <MESSAGE value="Organizando los programas" />
+    <MESSAGE value="Meter CMake central para todos los apartados." />
+    <MESSAGE value="Ejercicio 1 completo" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="Ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2" />
+  </component>
+</project>

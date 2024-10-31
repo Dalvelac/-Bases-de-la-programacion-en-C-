@@ -6,7 +6,7 @@ Aquí podemos encontrar todos los apartados que se encuentran en el ejercicio 1.
 
 ### Apartado 1: Utilidad de variables
 
-**Archivo:** [https://github.com/Dalvelac/Bases-de-la-programacion-en-Cpp/blob/Ejercicio-1/Ejercicio%201/Apartado%201/Utilidad_de_variables.cpp]
+**(Archivo)[https://github.com/Dalvelac/Bases-de-la-programacion-en-Cpp/blob/Ejercicio-1/Ejercicio%201/Apartado%201/Utilidad_de_variables.cpp]:**
 
 Este programa solicita al usuario su nombre y edad, y luego muestra un mensaje indicando cuántos años tendrá el usuario el próximo año.
 

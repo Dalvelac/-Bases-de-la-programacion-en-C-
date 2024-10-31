@@ -1,0 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.2)
+
+add_executable(Apartado2_1_Instrucciones_de_Prueba Instrucciones_de_Prueba.cpp)

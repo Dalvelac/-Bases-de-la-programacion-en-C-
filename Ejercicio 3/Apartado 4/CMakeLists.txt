@@ -1,0 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
+
+add_executable(Apartado3_4_Instrucciones_de_salto Instrucciones_de_salto.cpp)

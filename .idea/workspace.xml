@@ -13,7 +13,10 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="Project" targetName="Apartado2_1_Instrucciones_de_Prueba" />
+      <config projectName="Project" targetName="Apartado2_2_Operadores" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -21,7 +24,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87301aca-c44f-4cc6-954a-46fb7b3e06ce" name="Changes" comment="README.md" />
+    <list default="true" id="87301aca-c44f-4cc6-954a-46fb7b3e06ce" name="Changes" comment="README.md">
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2/Apartado 1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2/Apartado 1/Instrucciones_de_Prueba.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2/Apartado 2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2/Apartado 2/Operadores.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +67,12 @@
     <setting file="file://$PROJECT_DIR$/Ejercicio 1/Apartado 2/Ambito_de_las_variables.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ejercicio 1/Apartado 3/Sintaxis_de_Declaracion.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -64,35 +81,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;CMake Application.Apartado1_Utilidad_de_variables.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Apartado4_Tipo_de_Datos.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Bases-de-la-programacion-en-cpp.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Utilidad_de_variables.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 1/CMakeLists.txt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CMake Application.Apartado1_Utilidad_de_variables.executor": "Run",
+    "CMake Application.Apartado2_1_Instrucciones_de_Prueba.executor": "Run",
+    "CMake Application.Apartado4_Tipo_de_Datos.executor": "Run",
+    "CMake Application.Bases-de-la-programacion-en-cpp.executor": "Run",
+    "CMake Application.Utilidad_de_variables.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Ejercicio-2",
+    "last_opened_file_path": "C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 1/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\v3rmu\CLionProjects\Bases-de-la-programacion-en-Cpp\Ejercicio 1" />
       <recent name="C:\Users\v3rmu\CLionProjects\Bases-de-la-programacion-en-Cpp\Apartado 2" />
       <recent name="C:\Users\v3rmu\CLionProjects\Bases-de-la-programacion-en-Cpp\Apartado 1" />
     </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Apartado2_1_Instrucciones_de_Prueba">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apartado2_1_Instrucciones_de_Prueba" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Apartado2_1_Instrucciones_de_Prueba" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Apartado2_1_Instrucciones_de_Prueba">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apartado2_2_Operadores" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Apartado2_2_Operadores" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Apartado2_2_Operadores">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Apartado2_1_Instrucciones_de_Prueba" />
+      <item itemvalue="CMake Application.Apartado2_2_Operadores" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -104,6 +144,7 @@
       <updated>1730376772365</updated>
       <workItem from="1730376773471" duration="5005000" />
       <workItem from="1730390647602" duration="1718000" />
+      <workItem from="1730392560096" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="Primeros programas">
       <option name="closed" value="true" />

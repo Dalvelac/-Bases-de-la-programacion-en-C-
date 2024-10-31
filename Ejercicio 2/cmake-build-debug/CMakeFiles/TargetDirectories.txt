@@ -1,0 +1,8 @@
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/Apartado 1/CMakeFiles/Apartado2_1_Instrucciones_de_Prueba.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/Apartado 1/CMakeFiles/edit_cache.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/Apartado 1/CMakeFiles/rebuild_cache.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/Apartado 2/CMakeFiles/Apartado2_2_Operadores.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/Apartado 2/CMakeFiles/edit_cache.dir
+C:/Users/v3rmu/CLionProjects/Bases-de-la-programacion-en-Cpp/Ejercicio 2/cmake-build-debug/Apartado 2/CMakeFiles/rebuild_cache.dir

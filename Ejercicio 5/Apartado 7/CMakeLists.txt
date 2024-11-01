@@ -1,1 +1,3 @@
+cmake_minimum_required(VERSION 3.2)
+add_executable(Apartado7_Asignacion_de_valores_por_defecto_a_argumentos Asignacion_de_valores_por_defecto_a_argumentos.cpp)
 

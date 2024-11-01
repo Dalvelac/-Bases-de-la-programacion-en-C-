@@ -1,3 +1,13 @@
-//
-// Created by v3rmu on 01/11/2024.
-//
+#include <iostream>
+
+int a = 5;
+int b = 10;
+
+int suma(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    std::cout << "La suma de " << a << " y " << b << " es " << suma(a, b) << std::endl;
+    return 0;
+}

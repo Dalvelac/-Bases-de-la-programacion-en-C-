@@ -1,1 +1,2 @@
-
+cmake_minimum_required(VERSION 3.2)
+add_executable(Apartado6_Funciones_con_numero_variable_de_argumentos Funciones_con_numero_variable_de_argumentos.cpp)

@@ -1,0 +1,2 @@
+cmake_minimum_required(VERSION 3.2)
+add_executable(Apartado8_Funciones_en_linea Funciones_en_linea.cpp)

@@ -1,0 +1,13 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
+
+add_subdirectory("Apartado 1")
+add_subdirectory("Apartado 2")
+add_subdirectory("Apartado 3")
+add_subdirectory("Apartado 4")
+add_subdirectory("Apartado 5")
+add_subdirectory("Apartado 6")
+add_subdirectory("Apartado 7")
+add_subdirectory("Apartado 8")
+add_subdirectory("Apartado 9")
+add_subdirectory("Apartado 10")
+add_subdirectory("Apartado 11")

@@ -1,0 +1,2 @@
+cmake_minimum_required(VERSION 3.2)
+add_executable(Apartado5_Definicion_de_las_funciones_homonimas Definicion_de_las_funciones_homonimas.cpp)

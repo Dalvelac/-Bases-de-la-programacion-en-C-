@@ -1,0 +1,2 @@
+cmake_minimum_required(VERSION 3.2)
+add_executable(Apartado2_Funciones_y_procedimientos Funciones_y_procedimientos.cpp)

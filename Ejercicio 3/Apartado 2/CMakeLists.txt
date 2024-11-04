@@ -1,0 +1,2 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
+add_executable(Apartado3_2_Bucle_while Bucle_while.cpp)

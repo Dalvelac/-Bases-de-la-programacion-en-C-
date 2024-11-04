@@ -1,0 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.2)
+
+add_executable(Apartado3_Sintaxis_de_Declaracion Sintaxis_de_Declaracion.cpp)

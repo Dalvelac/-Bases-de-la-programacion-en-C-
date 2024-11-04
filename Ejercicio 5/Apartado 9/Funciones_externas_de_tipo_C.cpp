@@ -1,3 +1,6 @@
-//
-// Created by v3rmu on 01/11/2024.
-//
+#include <iostream>
+#include "funciones.h"
+
+void saludar(const std::string &nombre) {
+    std::cout << "Hola, " << nombre << "!" << std::endl;
+}
